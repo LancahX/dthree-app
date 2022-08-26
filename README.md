@@ -1,2 +1,2 @@
-# dthree-app
+# Dthree Apps
 Website Monitoring Dthree
